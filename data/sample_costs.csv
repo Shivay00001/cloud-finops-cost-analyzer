@@ -1,0 +1,12 @@
+date,service,cost,region
+2023-10-01,AmazonEC2,50.00,us-east-1
+2023-10-01,AmazonRDS,20.00,us-east-1
+2023-10-02,AmazonEC2,52.00,us-east-1
+2023-10-02,AmazonRDS,20.00,us-east-1
+2023-10-03,AmazonEC2,48.00,us-east-1
+2023-10-03,AmazonRDS,20.00,us-east-1
+2023-10-04,AmazonEC2,150.00,us-east-1
+2023-10-04,AmazonRDS,20.00,us-east-1
+2023-10-05,AmazonEC2,51.00,us-east-1
+2023-10-05,AmazonRDS,20.00,us-east-1
+2023-10-06,AmazonS3,5.00,us-east-1
